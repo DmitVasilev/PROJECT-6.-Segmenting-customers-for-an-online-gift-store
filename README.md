@@ -4,11 +4,11 @@
 
 ##  <font color = #9ACD32> Содержание </font>
 
-[1. Введение](https://github.com/DmitVasilev/Project-5-Regression-problem#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
-[2. Описание задачи](https://github.com/DmitVasilev/Project-5-Regression-problem#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
-[3. Описание данных](https://github.com/DmitVasilev/Project-5-Regression-problem#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
-[4. Результат](https://github.com/DmitVasilev/Project-5-Regression-problem#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
-[5. Выводы](https://github.com/DmitVasilev/Project-5-Regression-problem#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+[1. Введение](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
+[2. Описание задачи](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
+[3. Описание данных](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
+[4. Результат](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
+[5. Выводы](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### <font color = #9ACD32> 1. Введение </font>
 
@@ -45,7 +45,7 @@
 6. *RFM-сегментация клиентов. Часть III*
 Построение модели классификации, которая позволит автоматически определять сегмент клиента на основе нескольких транзакций.
                           
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-5-Regression-problem#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
 
 ###  <font color = #9ACD32>2. Описание задачи</font>
 
@@ -60,7 +60,7 @@
 4. Построить несколько моделей машинного обучения, решающих задачу кластеризации клиентов, определить количество кластеров и проинтерпретировать их.
 5. Спроектировать процесс предсказания категории интересов клиента и протестировать модель на новых клиентах. 
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-5-Regression-problem#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)             
                                  
 ###  <font color = #9ACD32>3. Описание данных</font>
 
@@ -75,20 +75,19 @@
 * CustomerID — идентификатор клиента (уникальный пятизначный номер, однозначно присваиваемый каждому клиенту);
 * Country — название страны, в которой проживает клиент.
                      
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-5-Regression-problem#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)   
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)                
 
 ###  <font color = #9ACD32>4. Результат</font>
 
-Ноутбук с решением на GitHub: [project_6.ipynb](https://github.com/DmitVasilev/Project-5-Regression-problem/blob/9c180447b100bcc3453398798bf5db79debf20a2/project-5_NY_taxi.ipynb).     
+Ноутбук с решением на GitHub: [project_6.ipynb](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store/blob/f218c1a4b3db44b545df9cb8876f6b026a86178f/Project-6.ipynb).     
  
-Обеспечить воспроизводимость кода поможет файл requirements.txt: [requirements.txt](https://github.com/DmitVasilev/Project-5-Regression-problem/blob/9c180447b100bcc3453398798bf5db79debf20a2/requirements.txt). 
+Обеспечить воспроизводимость кода поможет файл requirements.txt: [requirements.txt](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store/blob/f218c1a4b3db44b545df9cb8876f6b026a86178f/requirements.txt). 
                         
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-5-Regression-problem#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)      
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)             
 
 
 ###  <font color = #9ACD32>5. Выводы</font>
 
   Удалось решить задачу по сегментации клиентов на основе их покупательской способности, частоты совершения заказов и срока давности последнего заказа. Выполнено исследование данных, поиск и обработка пропущенных значений и дубликатов. Выдвинуто и проверено несколько гипотез относительно странных значений некоторых признаков. Проведена очистка данных от выявленных некорректных значений. Выполнен разведывательный анализ данных и созданны дополнительные признаки для сегментации клиентов. Созданы новые признаки с помощью метода RFM. Применены методы снижения размерности PCA (метод главных компонент) и t-SNE. Определено оптимальное число кластеров с помощью коэффициента силуэта для методов кластеризации k-means, EM-алгоритма и  алгоритма алгомеративной кластеризации. Построены оптимальные модели кластеризации и проведен анализ профилей полученных кластеров. Решена проблема непараметричности t-SNE переходом от решения задачи кластеризации к задаче классификации. Использованы ансамблевые модели (RandomForestClassifier, GradientBoostingClassifier) с подбором оптимальных параметров с помощью GridSearhCV. Получена модель, которая на основе RFM-характерик клиента автоматически определяет его сегмент со значением метрики accuracy на тестовой выборке: 0.985.
-
                              
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-5-Regression-problem#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)   
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
