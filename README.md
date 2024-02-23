@@ -79,7 +79,7 @@
 
 ###  <font color = #9ACD32>4. Результат</font>
 
-Ноутбук с решением на GitHub: [project_6.ipynb](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store/blob/f218c1a4b3db44b545df9cb8876f6b026a86178f/Project-6.ipynb).     
+Ноутбук с решением на GitHub: [project_6.ipynb](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store/blob/ca7851879e9f1599b591a612694fb8b3bc4b5acc/Project-6.ipynb).     
  
 Обеспечить воспроизводимость кода поможет файл requirements.txt: [requirements.txt](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store/blob/f218c1a4b3db44b545df9cb8876f6b026a86178f/requirements.txt). 
                         
